@@ -243,37 +243,6 @@ Khi người dùng lựa chọn một trong các thuật toán được thiết 
 
 Phần này dành để trình bày các kết quả phân tích hiệu suất chi tiết của các thuật toán đã được triển khai. Các biểu đồ dưới đây được trích xuất từ báo cáo PDF do chính ứng dụng tạo ra, minh họa một cách trực quan sự khác biệt về hiệu quả giữa các phương pháp tiếp cận.
 
-<!-- CHÈN 5 ẢNH BIỂU ĐỒ ĐÁNH GIÁ TỪ PDF TẠI ĐÂY -->
-<!-- Ví dụ:
-<p align="center">
-  <img src="link_den_bieu_do_thoi_gian.png" alt="Biểu đồ thời gian thực thi" width="600"/>
-  <br/><em>Hình 1: Biểu đồ so sánh thời gian thực thi trung bình của các thuật toán.</em>
-</p>
-<p align="center">
-  <img src="link_den_bieu_do_do_dai.png" alt="Biểu đồ độ dài đường đi" width="600"/>
-  <br/><em>Hình 2: Biểu đồ so sánh độ dài đường đi trung bình của các thuật toán.</em>
-</p>
-<p align="center">
-  <img src="link_den_bieu_do_ty_le.png" alt="Biểu đồ tỷ lệ thành công" width="600"/>
-  <br/><em>Hình 3: Biểu đồ so sánh tỷ lệ thành công của các thuật toán.</em>
-</p>
-<p align="center">
-  <img src="link_den_bieu_do_nhom.png" alt="Biểu đồ so sánh theo nhóm" width="600"/>
-  <br/><em>Hình 4: Biểu đồ ví dụ so sánh hiệu suất các thuật toán trong nhóm Tìm kiếm có thông tin.</em>
-</p>
-<p align="center">
-  <img src="link_den_bang_tom_tat.png" alt="Bảng tóm tắt kết quả" width="700"/>
-  <br/><em>Hình 5: Bảng tóm tắt các số liệu chính từ kết quả đánh giá tổng thể.</em>
-</p>
--->
-```
-[Hình 1: Biểu đồ so sánh thời gian thực thi trung bình của các thuật toán.]
-[Hình 2: Biểu đồ so sánh độ dài đường đi trung bình của các thuật toán.]
-[Hình 3: Biểu đồ so sánh tỷ lệ thành công của các thuật toán.]
-[Hình 4: Biểu đồ ví dụ so sánh các thuật toán trong một nhóm cụ thể (ví dụ: Tìm kiếm có thông tin).]
-[Hình 5: Bảng tóm tắt kết quả đánh giá tổng thể.]
-```
-
 ## Hướng Dẫn Cài Đặt và Triển Khai
 
 ### Yêu Cầu Hệ Thống và Thư Viện
