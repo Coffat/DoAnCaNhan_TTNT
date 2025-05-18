@@ -1,10 +1,6 @@
 # Báo cáo Project: Giải Bài Toán 8-Puzzle Với Các Thuật Toán Tìm Kiếm và Học Tăng Cường
 **Sinh viên thực hiện: Vũ Toàn Thắng - 23110329**
-<!-- CHÈN ẢNH GIF DEMO DỰ ÁN TẠI ĐÂY -->
-<!-- Ví dụ: <p align="center"><img src="link_den_anh_gif_cua_ban.gif" alt="Demo 8-Puzzle Solver Pro" width="700"/></p> -->
-```
-[Ảnh GIF demo các chức năng chính của ứng dụng: chọn thuật toán, giải puzzle, xem các bước, chức năng đánh giá, cửa sổ Q-Learning, cửa sổ môi trường không xác định.]
-```
+![GIF](https://github.com/Coffat/DoAnCaNhan_TTNT/blob/main/image/DoAnCaNhan1.gif?raw=true)
 
 ## Mục lục
 1.  [Giới thiệu](#giới-thiệu)
@@ -56,6 +52,12 @@ Một hệ thống **đánh giá và so sánh hiệu suất thuật toán toàn 
 -   Trình bày kết quả đánh giá dưới dạng bảng so sánh chi tiết, bao gồm các số liệu quan trọng như thời gian thực thi trung bình, độ dài trung bình của đường đi, tỷ lệ giải thành công, và ước tính số lượng nút đã mở rộng trong quá trình tìm kiếm.
 -   Minh họa kết quả bằng các biểu đồ cột trực quan, giúp dễ dàng so sánh hiệu suất về thời gian, độ dài đường đi và tỷ lệ thành công.
 -   Cung cấp một giao diện dạng thẻ (card-based) hiện đại để so sánh hiệu suất chuyên sâu theo từng nhóm thuật toán.
+![Ảnh 1](https://github.com/Coffat/DoAnCaNhan_TTNT/blob/main/image/2-h%C3%ACnh%20%E1%BA%A3nh-0.jpg?raw=true)
+![Ảnh 2](https://github.com/Coffat/DoAnCaNhan_TTNT/blob/main/image/2-h%C3%ACnh%20%E1%BA%A3nh-1.jpg?raw=true)
+![Ảnh 3](https://github.com/Coffat/DoAnCaNhan_TTNT/blob/main/image/2-h%C3%ACnh%20%E1%BA%A3nh-2.jpg?raw=true)
+![Ảnh 4](https://github.com/Coffat/DoAnCaNhan_TTNT/blob/main/image/2-h%C3%ACnh%20%E1%BA%A3nh-3.jpg?raw=true)
+![Ảnh 5](https://github.com/Coffat/DoAnCaNhan_TTNT/blob/main/image/2-h%C3%ACnh%20%E1%BA%A3nh-4.jpg?raw=true)
+![Ảnh 6](https://github.com/Coffat/DoAnCaNhan_TTNT/blob/main/image/2-h%C3%ACnh%20%E1%BA%A3nh-5.jpg?raw=true)
 
 Chức năng **xuất báo cáo và kết quả linh hoạt**:
 -   Lưu trữ chi tiết lời giải của một puzzle (chuỗi các bước di chuyển) ra một tệp văn bản định dạng `.txt`.
